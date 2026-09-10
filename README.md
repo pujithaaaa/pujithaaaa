@@ -1,48 +1,37 @@
-<h1 align="center">Hi, I'm Pujitha 👋</h1>
+# Pujitha Tungala
 
-<p align="center">
-  AI Team @ Adobe · Building with Workfront Fusion & API integrations
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+**Associate Technical Consultant, Gen AI Team @ Adobe**
 
 ---
 
-### 💼 About Me
+## About
 
-- 🚀 Full-time engineer on the **AI Team at Adobe** — started as an intern, now a new grad on the team
-- 🔧 Currently working with **Adobe Workfront Fusion** and API-driven workflow automation
-- 🧩 Exploring how AI agents connect into enterprise tools via orchestrated integrations
-- 🌱 Always learning — currently deep-diving into Fusion scenarios & AI-agent tooling
+I work on the Gen AI team at Adobe, building LLM- and AI-powered tooling.
+My public projects center on agents, LLM integrations, and content
+automation.
 
-### 🛠️ Tech & Tools
+## Tech & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,git,github,docker,slack&theme=dark" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
----
+My repositories are primarily built in **Python** — spanning LLM agents,
+model rendering, and automation utilities.
 
-### 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pujithaaaa&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pujithaaaa&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Pujitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pujithaaaa&show_icons=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pujithaaaa&theme=radical&hide_border=true" />
-</p>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pujithaaaa)
 
-### 🔥 Contribution Heatmap
+![GitHub streak](https://streak-stats.demolab.com?user=pujithaaaa)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pujithaaaa&theme=redical&hide_border=true" />
-</p>
+## Contribution Activity
 
----
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=pujithaaaa)
 
-<p align="center"><i>Thanks for stopping by! ✨</i></p>
+## Featured Projects
+
+- **llm-newsletter-agent** — LLM-driven newsletter agent (Python)
+- **quarterly_summarizer** — automated quarterly summarization (Python)
+- **groq-render** — Groq-based model rendering (Python)
+- **plugin** — Python plugin project
